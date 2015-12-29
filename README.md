@@ -1,2 +1,3 @@
 # gAtletas
 Projeto em java utilizando a IDE NetBeans mais o postgres como banco de dados.
+O projeto incialmete  um sisteminha para gerenciamento de atltas de futebol, (CRUD) destde as categorias de base até os profissionais .... para obter melhor controle das despesas com o salário dos profissionais e juniores, bem como ter uma visão geral da ajuda de custo para as demais categorias e manter contato com os pais de atletas de menores ... futuramente pretende-se transformar este projeto em um sistema em rede e porteriormente adaptá-lo ao mobile ... por enquanto ficará somente no projeto desktop.
